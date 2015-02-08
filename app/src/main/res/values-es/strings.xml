@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cosmo</string>
+
+    <string name="app_name_alternative">Tomato timer</string>
+    <string name="title_work">%1$s min. para la pausa</string>
+    <string name="title_small_break">%1$s min. de pausa</string>
+    <string name="title_long_break">%1$s more min break</string>
+    <string name="title_stopped">Pomodoro cancelado</string>
+    <string name="action_start">Iniciarr</string>
+    <string name="action_stop">Parar</string>
+    <string name="action_reset">Reiniciar</string>
+</resources>
